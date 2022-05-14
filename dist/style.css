@@ -1,14 +1,14 @@
 :root {
-  --bg1: url('/images/mobile-image-hero-1.jpg');
-  --bg2: url('/images/mobile-image-hero-2.jpg');
-  --bg3: url('/images/mobile-image-hero-3.jpg');
+  --bg1: url('/images/20220505_073604.jpg');
+  --bg2: url('/images/20220511_083938.jpg');
+  --bg3: url('/images/20220419_124155.jpg');
 }
 
 @media (min-width: 40em) {
   :root {
-    --bg1: url('/images/desktop-image-hero-1.jpg');
-    --bg2: url('/images/desktop-image-hero-2.jpg');
-    --bg3: url('/images/desktop-image-hero-3.jpg');
+    --bg1: url('/images/20220505_073604.jpg');
+    --bg2: url('/images/20220511_083938.jpg');
+    --bg3: url('/images/20220419_124155.jpg');
   }
 }
 
@@ -561,7 +561,7 @@ button:hover::before, .button:hover::before {
   z-index: 0;
   height: 22.5rem;
   background-position: top center;
-  background-image: url("/images/mobile-image-hero-1.jpg");
+  background-image: url("/images/20220416_184311.jpg");
   background-size: 100% 22.5rem;
   background-position: top left;
   background-repeat: no-repeat;
@@ -569,7 +569,7 @@ button:hover::before, .button:hover::before {
 
 @media (min-width: 40em) {
   .header__background {
-    background-image: url("/images/desktop-image-hero-1.jpg");
+    background-image: url("/images/20220416_184311.jpg");
     height: 26.5rem;
     background-size: 100% 26.5rem;
   }
@@ -991,7 +991,7 @@ button:hover::before, .button:hover::before {
 }
 
 .footer__dark {
-  background-image: url("/images/image-about-dark.jpg");
+  background-image: url("/images/20220416_184318.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
   width: 100%;
@@ -1045,7 +1045,7 @@ button:hover::before, .button:hover::before {
 }
 
 .footer__light {
-  background-image: url("/images/image-about-light.jpg");
+  background-image: url("/images/20220416_184311.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
   width: 100%;

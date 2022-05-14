@@ -293,9 +293,9 @@
         z-index: 0;
         height: 22.5rem;
         background-position:top center;
-        background-image:url("/images/mobile-image-hero-1.jpg");
+        background-image:url("/images/20220416_184311.jpg");
         @include breakpoint-up(medium){
-            background-image: url("/images/desktop-image-hero-1.jpg");
+            background-image: url("/images/20220416_184311.jpg");
             height: 26.5rem;
             background-size: 100% 26.5rem;
         }
